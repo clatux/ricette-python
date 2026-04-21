@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+  <h2>Dashboard amministratore</h2>
+  <div>
+    <a href="/admin/nuova" class="btn btn-success me-2">Nuova ricetta</a>
+    <a href="/admin/logout" class="btn btn-outline-secondary">Logout</a>
+  </div>
+</div>
+
+<table class="table table-striped align-middle">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Titolo</th>
+      <th>Categoria</th>
+      <th>Foto</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for r in ricette %}
+    <tr>
+      <td>{{ r.id }}</td>
+      <td>{{ r.titolo }}</td>
+      <td>{{ r.categoria }}</td>
+      <td>{{ r.foto }}</td>
+      <td class="text-end">
+        <a href="/admin/modifica/{{ r.id }}" class="btn btn-sm btn-primary">Modifica</a>
+        <a href="/admin/elimina/{{ r.id }}" class="btn btn-sm btn-danger"
+           onclick="return confirm('Eliminare questa ricetta?');">Elimina</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}
