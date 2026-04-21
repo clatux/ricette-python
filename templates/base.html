@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ titolo if titolo else "Ricette della Casa" }}</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Ricette della Casa</h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/categoria/primi">Primi</a>
+        <a href="/categoria/dolci">Dolci</a>
+    </nav>
+</header>
+
+<main>
+    {% block content %}{% endblock %}
+</main>
+
+<footer>
+    <p>© 2026 Ricette della Casa</p>
+</footer>
+
+</body>
+</html>
