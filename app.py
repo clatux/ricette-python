@@ -1,26 +1,37 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, g
+import sqlite3
 
 app = Flask(__name__)
 
-# Home page
+DATABASE = "ricette.db"
+
+def get_db():
+    db = getattr(g, "_database", None)
+    if db is None:
+        db = g._database = sqlite3.connect(DATABASE)
+        db.row_factory = sqlite3.Row
+    return db
+
+@app.teardown_appcontext
+def close_connection(exception):
+    db = getattr(g, "_database", None)
+    if db is not None:
+        db.close()
+
 @app.route("/")
 def home():
-    ricette = [
-        {"id": 1, "titolo": "Pasta al pomodoro", "categoria": "Primi"},
-        {"id": 2, "titolo": "Tiramisù", "categoria": "Dolci"},
-    ]
+    db = get_db()
+    ricette = db.execute("SELECT * FROM ricette ORDER BY id DESC").fetchall()
     return render_template("index.html", ricette=ricette)
 
-# Pagina ricetta
 @app.route("/ricetta/<int:id>")
 def ricetta(id):
-    ricetta = {
-        "id": id,
-        "titolo": "Pasta al pomodoro",
-        "ingredienti": ["Pasta", "Pomodoro", "Sale", "Olio"],
-        "preparazione": "Cuoci la pasta e aggiungi il sugo."
-    }
+    db = get_db()
+    ricetta = db.execute("SELECT * FROM ricette WHERE id = ?", (id,)).fetchone()
     return render_template("ricetta.html", ricetta=ricetta)
 
-if __name__ == "__main__":
-    app.run(debug=True)
+@app.route("/categoria/<nome>")
+def categoria(nome):
+    db = get_db()
+    ricette = db.execute("SELECT * FROM ricette WHERE categoria = ?", (nome,)).fetchall()
+    return render_template("categoria.html", categoria=nome, ricette=ricette)
