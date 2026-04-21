@@ -1,0 +1,27 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-danger sticky-top shadow-sm">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="/">Ricette della Casa</a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMain">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+
+        {% for cat in categorie %}
+        <li class="nav-item">
+          <a class="nav-link" href="/categoria/{{ cat }}">{{ cat }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <!-- Barra di ricerca -->
+      <form class="d-flex" action="/search" method="get">
+        <input class="form-control me-2" type="search" name="q" placeholder="Cerca ricette..." aria-label="Search">
+        <button class="btn btn-light" type="submit">Cerca</button>
+      </form>
+    </div>
+  </div>
+</nav>
