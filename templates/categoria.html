@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Categoria: {{ categoria }}</h2>
+
+<div class="row mt-4">
+    {% for r in ricette %}
+    <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div class="card shadow-sm">
+            {% if r.immagine %}
+            <img src="/static/img/{{ r.immagine }}" class="card-img-top">
+            {% endif %}
+            <div class="card-body">
+                <h5 class="card-title">{{ r.titolo }}</h5>
+                <a href="/ricetta/{{ r.id }}" class="btn btn-danger w-100">Vedi ricetta</a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock %}
