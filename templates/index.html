@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Ultime ricette</h2>
+
+<ul>
+    {% for r in ricette %}
+    <li>
+        <a href="/ricetta/{{ r.id }}">{{ r.titolo }}</a> — {{ r.categoria }}
+    </li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
