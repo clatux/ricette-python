@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block content %}
+
+<article class="recipe-detail">
+  <header class="mb-4">
+    <span class="badge bg-secondary mb-2">{{ ricetta.categoria }}</span>
+    <h1>{{ ricetta.titolo }}</h1>
+    {% if ricetta.descrizione %}
+    <p class="text-muted">{{ ricetta.descrizione }}</p>
+    {% endif %}
+  </header>
+
+  {% if ricetta.foto %}
+  <img src="/static/img/{{ ricetta.foto }}" class="img-fluid rounded mb-4" alt="{{ ricetta.titolo }}">
+  {% endif %}
+
+  <section class="mb-4">
+    <h3>Ingredienti</h3>
+    <div class="recipe-html">
+      {{ ricetta.ingredienti | safe }}
+    </div>
+  </section>
+
+  <section class="mb-4">
+    <h3>Procedimento</h3>
+    <div class="recipe-html">
+      {{ ricetta.procedimento | safe }}
+    </div>
+  </section>
+
+  {% if ricetta.conservazione %}
+  <section class="mb-4">
+    <h4>Conservazione</h4>
+    <div class="recipe-html">
+      {{ ricetta.conservazione | safe }}
+    </div>
+  </section>
+  {% endif %}
+</article>
+
+{% endblock %}
