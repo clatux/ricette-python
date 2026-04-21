@@ -1,0 +1,251 @@
+[
+    {
+        "id": 1,
+        "titolo": "Pasta alla Carbonara",
+        "categoria": "Primi",
+        "descrizione": "Un grande classico della cucina romana.",
+        "foto": "carbonara.jpg",
+        "ingredienti": "<ul>\r\n<li>200 g pasta<\/li>\r\n<li>2 uova<\/li>\r\n<li>80 g guanciale<\/li>\r\n<li>Pecorino<\/li>\r\n<li>Pepe<\/li>\r\n<\/ul>",
+        "procedimento": "<p>Rosolare il guanciale Sbattere uova e pecorino Cuocere pasta Unire tutto a fuoco spento<\/p>",
+        "conservazione": "<p>Si conserva in frigo per 2 giorni.<\/p>",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1771864851,
+        "titolo": "Tiramisù",
+        "categoria": "Dolci",
+        "descrizione": "Tiramisù, il dolce per eccellenza",
+        "foto": "tiramisu.jpg",
+        "ingredienti": "<p><strong>PER UNA TEGLIA DI 30x20 cm<\/strong><\/p>\r\n<ul>\r\n<li>Mascarpone 750 g<\/li>\r\n<li>Uova freschissime (circa 5 medie)&nbsp;260 g<\/li>\r\n<li>Savoiardi&nbsp;250 g<\/li>\r\n<li>Zucchero&nbsp;120 g<\/li>\r\n<li>Caff&egrave; (della moka, zuccherato a piacere)&nbsp;300 g<\/li>\r\n<\/ul>\r\n<p><strong>Per decorare:<\/strong><\/p>\r\n<ul>\r\n<li>Cacao amaro in polvere q.b.<\/li>\r\n<\/ul>",
+        "procedimento": "<div class=\"gz-content-recipe-step\">\r\n<ol>\r\n<li>Per preparare il tiramis&ugrave; preparate il caff&egrave; con la moka per ottenerne 300 g, poi zuccherate a piacere (noi abbiamo messo un cucchiaino) e lasciatelo raffreddare in una ciotolina bassa e ampia.<\/li>\r\n<li>Separate le uova dividendo gli albumi dai tuorli, ricordando che per montare bene gli albumi non dovranno presentare alcuna traccia di tuorlo. Montate i tuorli con le fruste elettriche, versando solo met&agrave; dose di zucchero.. Non appena il composto sar&agrave; diventato chiaro e spumoso, e con le fruste ancora in funzione, potrete aggiungere il mascarpone, poco alla volta. Incorporato tutto il formaggio avrete ottenuto una crema densa e compatta; tenetela da parte.<\/li>\r\n<li>Pulite molto bene le fruste e passate a montare gli albumi. Quando saranno schiumosi versate il restante zucchero un po&rsquo; alla volta. Dovrete montarli a neve ben ferma; otterrete questo risultato quando rovesciando la ciotola la massa non si muover&agrave;.<\/li>\r\n<li>Prendete una cucchiaiata di albumi e versatela nella ciotola con la crema di mascarpone e mescolate energicamente con una spatola, cos&igrave; stempererete il composto. Dopodich&eacute; procedete ad aggiungere la restante parte di albumi, poco alla volta mescolando molto delicatamente dal basso verso l'alto. La crema al mascarpone &egrave; ora pronta.<\/li>\r\n<li>Distribuitene una generosa cucchiaiata sul fondo di una pirofila di vetro, grande 30x19,5cm e distribuite per bene su tutta la base. Inzuppate per pochi istanti i savoiardi nel caff&egrave; freddo prima da un lato e poi dall&rsquo;altro. Man mano distribuite i savoiardi imbevuti nella pirofila, cercando di sistemarli tutti in un verso, cos&igrave; da ottenere un primo strato di biscotti.<\/li>\r\n<li>Aggiungete altra crema al mascarpone e livellatela in modo da coprirli completamente.<\/li>\r\n<li>Continuate a distribuire i savoiardi imbevuti nel caff&egrave;, poi realizzate un altro strato di crema e livellate bene la superficie.<\/li>\r\n<li>Trasferite la crema rimasta in un sac-&agrave;-poche con beccuccio liscio di diametro 12 mm e realizzare dei ciuffetti per tutta la dimensione della teglia. Spolverizzatela con del cacao amaro in polvere e lasciate rassodare in frigorifero per un paio d&rsquo;ore. Il vostro tiramis&ugrave; &egrave; pronto per essere gustato!<\/li>\r\n<\/ol>\r\n<\/div>",
+        "conservazione": "<p>Si consiglia di consumare il tiramis&ugrave; preparato con uova fresche entro la giornata o conservare al massimo per 1 giorno in frigo, in un contenitore ermetico. Se utilizzate uova pastorizzate anche 2-3 giorni. Si pu&ograve; congelare per circa 2 settimane in freezer.<\/p>\r\n<h2 class=\"gz-title-section gz-uppercase gz-underline gz-mBottom1x\">Consiglio<\/h2>\r\n<div class=\"gz-content-recipe gz-mBottom4x\">\r\n<p>Potete aggiungere a piacimento del cioccolato fondente a scaglie o delle gocce di cioccolato e zuccherare il caff&egrave; a vostro gusto.<\/p>\r\n<\/div>",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1771968620,
+        "titolo": "Moretta",
+        "categoria": "Dolci",
+        "descrizione": "Un dolce semplice e goloso della tradizione.",
+        "ingredienti": "<div class=\"col-md-6\">\r\n<div class=\"c-recipe__list2 c-typo1--body1 --theme-light3--text-links-interact-orange2\">\r\n<ul>\r\n<li>4 uova a temperatura ambiente<\/li>\r\n<li>210 g di zucchero semolato<\/li>\r\n<li>200 g di farina 00<\/li>\r\n<li>50 g di&nbsp;<a href=\"http:\/\/wiki.cucchiaio.it\/wiki\/cacao\/\" target=\"_blank\" rel=\"noopener\">cacao<\/a>&nbsp;amaro<\/li>\r\n<li>50 ml di latte<\/li>\r\n<li>100 g di burro fuso<\/li>\r\n<li>16 g di lievito per dolci<\/li>\r\n<li>200 g di Nutella<\/li>\r\n<li>200 ml di panna fresca<\/li>\r\n<li>zucchero a velo<\/li>\r\n<\/ul>\r\n<\/div>\r\n<\/div>",
+        "procedimento": "<div class=\"recipe_procedures section\">\r\n<div data-browserecipe-slide-ref=\"3\">\r\n<div class=\"mb-f30\">\r\n<div class=\"c-typo1--body1 --theme-light3 pr-md-f85 pl-md-f85\">\r\n<ol>\r\n<li>Per realizzare la torta moretta rompete le uova in una ciotola e montatele con lo zucchero fino a ottenere un composto gonfio e spumoso. Aggiungete la farina con il lievito e il cacao setacciati, il latte e continuate a lavorare con le fruste fino ad amalgamare perfettamente tutti gli ingredienti<\/li>\r\n<li>Aggiungete il burro fuso, a temperatura ambiente, e amalgamate il tutto. Quando avrete ottenuto un composto liscio versatelo all'interno di uno stampo a cerniera, da 22 cm di diametro, imburrato e infarinato. Livellate e cuocete nel forno gi&agrave; caldo a 180&deg; per 40-45 minuti, verificando la cottura con uno stecchino di legno che, infilato nel dolce, dovr&agrave; uscirne pulito.<\/li>\r\n<li>Sfornate e fate raffreddare completamente prima di tagliare la torta a met&agrave;. Ponete la base su un piatto e distribuitevi sopra la Nutella dopo averla fatta lievemente ammorbidire sul fuoco, a fiamma bassissima.<\/li>\r\n<li>Montate la panna, fredda da frigorifero, in una ciotola ben pulita con le fruste elettriche e distribuitela sullo strato di Nutella. Coprite con la seconda met&agrave; di torta e spolverizzate con zucchero a velo. La torta moretta &egrave; pronta per essere gustata.<\/li>\r\n<\/ol>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>",
+        "foto": "moretta.jpg",
+        "conservazione": "<p class=\"svelte-1fz0gqk\"><span class=\"svelte-1fz0gqk\">La&nbsp;<\/span><span class=\"svelte-1fz0gqk\"><span class=\"svelte-1fz0gqk\">Torta Moretta farcita con Nutella e panna montata<\/span><\/span><span class=\"svelte-1fz0gqk\">&nbsp;deve essere conservata in&nbsp;<\/span><span class=\"svelte-1fz0gqk\"><span class=\"svelte-1fz0gqk\">frigorifero<\/span><\/span><span class=\"svelte-1fz0gqk\"> a causa della farcitura fresca, per 2-3 giorni massimo.<\/span><\/p>",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772026720,
+        "titolo": "Schifezza calabrese",
+        "categoria": "Secondi",
+        "descrizione": "Unisce sapori intensi e genuini della tradizione contadina.",
+        "ingredienti": "<ul>\r\n<li>2 fettine di pollo o pollo a pezzi<\/li>\r\n<li>3\/4 bicchieri di vino bianco<\/li>\r\n<li>una cipolla tritata<\/li>\r\n<li>un po di sale<\/li>\r\n<li>2 patate<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Mettere in pentola 2 fettine di pollo tagliate a pezzetti o pollo a pezzi (preferibilmente coscia ala e petto, non usate il collo) a seconda della preferenza, poi versare un quantitativo di acqua che ricopra la carne (non di pi&ugrave; perch&eacute; va aggiunto il vino e anche perch&eacute; poi non si asciuga e dovreste toglierla durante la cottura) , aggiungere 3 o 4 bicchieri di vino bianco, una cipolla tritata o a pezzi a seconda delle preferenze, un cucchiaino di sale (abbondante mi raccomando) la pentola deve essere preferibilmente di media grandezza (media per evitare che in una piccola tutto si bruci sui bordi), aggiungere 2 patate tagliate a cubetti.<\/li>\r\n<li>Lasciare bollire a fuoco alto per un ora, a quel punto assaggiate le patte e se sono cotte iniziate con un cucchiaio di legno a girare velocemente in senso orario il contenuto della pentola fino a quando la poca acqua rimasta non so asciugher&agrave; e diventer&agrave; una cosa sola con le patate e diventer&agrave; una crema.<\/li>\r\n<li>Se volete che la crema diventi una crosticina infornate per qualche minuto a temperatura massima fino a che non vedrete la crema diventare rossiccia.<\/li>\r\n<\/ol>",
+        "foto": "schifezza-calabrese-1.jpg",
+        "conservazione": "<p>Possiamo conservare in frigorifero il pollo in umido per 1-2 giorni, ricordandoci di chiuderlo in un contenitore ermetico. Prima di servirlo, sar&agrave; sufficiente scaldarlo per pochi secondi.<\/p>\r\n<p>Non solo il pollo, possiamo anche conservare il delizioso sughetto che resta sul fondo del tegame e usarlo per condire la pasta. Magari allunghiamolo con un po&rsquo; d&rsquo;acqua, se serve, e completiamo con un filo di olio e una spolverata di formaggio grattugiato. Vedrete che bont&agrave;!<\/p>",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772126258,
+        "titolo": "Paella Valenciana",
+        "categoria": "Secondi",
+        "descrizione": "Il sapore iberico.",
+        "ingredienti": "<ul class=\"r-ingredients\">\r\n<li><strong>Riso Bomba<\/strong>&nbsp;o un riso italiano a chicco tondo che tiene la cottura, come l'Originario o il Vialone Nano - 500 gr<\/li>\r\n<li><strong>Pollo<\/strong>&nbsp;cosce o sovracosce tagliate a pezzetti piccoli - 300 gr<\/li>\r\n<li><strong>Coniglio<\/strong>&nbsp;opzionale, va bene usare anche solo il pollo - 300 gr<\/li>\r\n<li><strong>Gamberoni<\/strong>&nbsp;non sgusciarli, danno sapore! - 8<\/li>\r\n<li><strong>Cozze<\/strong>&nbsp;fresche e pulite, o precotte se hai fretta - 500 gr<\/li>\r\n<li><strong>Seppie<\/strong>&nbsp;pulite - 100 gr<\/li>\r\n<li><strong>Totani<\/strong>&nbsp;puliti - 100 gr<\/li>\r\n<li><strong>Calamari<\/strong>&nbsp;puliti - 100 gr<\/li>\r\n<li><strong>Fagiolini<\/strong>&nbsp;o taccole - 200 gr<\/li>\r\n<li><strong>Peperone rosso<\/strong>&nbsp;1<\/li>\r\n<li><strong>Passata di pomodoro<\/strong>&nbsp;250 gr<\/li>\r\n<li><strong>Cipolla dorata<\/strong>&nbsp;1<\/li>\r\n<li><strong>Peperoni friggitelli<\/strong>&nbsp;2<\/li>\r\n<li><strong>Brodo<\/strong>&nbsp;di pesce o di carne - 1,5 l<\/li>\r\n<li><strong>Zafferano<\/strong>&nbsp;1 bustina<\/li>\r\n<li><strong>Pimenton<\/strong>&nbsp;paprika dolce - 1 cucchiaio da t&egrave;<\/li>\r\n<li><strong>Olio extravergine d'oliva (EVO)<\/strong>&nbsp;q.b.<\/li>\r\n<li><strong>Sale fino<\/strong> q.b.<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li data-step=\"1\">\r\n<p class=\"step\">Metti la paellera sul fuoco medio e versa un generoso giro d'olio EVO. Quando &egrave; caldo, adagia i gamberoni. Cuocili velocemente, giusto un minuto per lato finch&eacute; cambiano colore e rilasciano il loro sapore nell'olio. Toglili e tienili da parte (li rimetteremo alla fine per non stracuocerli).<\/p>\r\n<div id=\"adv-video-article\"><\/div>\r\n<\/li>\r\n<li>Nello stesso olio saporito, butta i pezzi di pollo e coniglio. Salali leggermente e falli rosolare molto bene a fiamma vivace finch&eacute; non sono dorati e croccanti.Sposta la carne verso i bordi della padella (dove il calore &egrave; minore) e al centro metti i molluschi (seppie\/calamari), la cipolla tritata, i peperoni e i peperoncini tagliati a pezzi. Fai soffriggere tutto insieme. Aggiungi i fagiolini e mescola portando la carne dai bordi verso il centro per insaporire tutto.<\/li>\r\n<li>Versa la passata di pomodoro e il cucchiaino di paprika dolce (attenzione a non bruciarla!). Mescola e lascia \"pippiare\" per un paio di minuti.Ora versa il brodo caldo (o l'acqua) fino a coprire bene tutti gli ingredienti (fino a quasi il bordo della paellera). Alza la fiamma e porta a bollore vivace per circa 5-10 minuti: questo serve a creare un brodo saporitissimo concentrando i gusti. Assaggia e regola di sale: il liquido deve essere saporito perch&eacute; il riso assorbir&agrave; tutto!<\/li>\r\n<li>Accendi il forno a 180&deg;C (statico o ventilato) cos&igrave; sar&agrave; caldo al momento giusto.<\/li>\r\n<li>Distribuisci il riso a pioggia su tutta la padella. Con un cucchiaio di legno, distribuiscilo uniformemente in modo che sia tutto coperto dal liquido, a questo punto aggiungi anche lo zafferano sciolto in poca acqua calda. <strong>Regola d'oro<\/strong>: Da questo momento in poi, NON MESCOLARE PI&Ugrave;. Il riso deve cuocere statico per assorbire il liquido e creare la crosticina. Cuoci a fiamma vivace per i primi 10 minuti, poi abbassa la fiamma a medio-basso per altri 8-10 minuti finch&eacute; il liquido non si asciuga quasi del tutto.<\/li>\r\n<li>Quando vedi che il liquido &egrave; sceso sotto il livello del riso (ma non &egrave; ancora asciutto del tutto), disponi a raggiera sulla superficie i gamberoni tenuti da parte e le cozze (con mezzo guscio o intere). <strong>Passaggio in forno<\/strong>: Sposta delicatamente la paella dal fornello al forno caldo (180&deg;C).&nbsp;Lascia cuocere per circa 10 minuti. Il calore del forno asciugher&agrave; perfettamente il liquido rimasto, creer&agrave; una leggera crosticina dorata sulla superficie del riso e finir&agrave; di cuocere i gamberoni senza seccarli. Sforna e lascia riposare 5 minuti coperta con un canovaccio (o stagnola) prima di servire. Questo riposo &egrave; fondamentale per far rilassare il riso e rendere la paella perfetta.<\/li>\r\n<\/ol>",
+        "foto": "paella-valenciana.jpg",
+        "conservazione": "<p>La&nbsp;Paella Valenciana&nbsp;va gustata appena fatta, calda e fragrante. Se dovesse avanzare, puoi conservarla in frigo per 1-2 giorni. Per riscaldarla, saltala in padella con un filo d'olio finch&eacute; non torna croccante.<\/p>\r\n<ul>\r\n<li><strong>Evita il congelamento:<\/strong> il riso scongelato tende a perdere consistenza e diventare molle.<\/li>\r\n<\/ul>",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772883989,
+        "titolo": "Tozzetti",
+        "categoria": "Dolci",
+        "descrizione": "Croccanti fuori, fragranti dentro, tipici dell’Italia centrale.",
+        "ingredienti": "<ul>\r\n<li>2 uova<\/li>\r\n<li>1\/4 di marzala<\/li>\r\n<li>1 cartina<\/li>\r\n<li>1 vanillina<\/li>\r\n<li>100 gr di burro<\/li>\r\n<li>1 limone grattato<\/li>\r\n<li>300 gr di zucchero<\/li>\r\n<li>nocchie a piacere<\/li>\r\n<li>farina quanta ne prende<\/li>\r\n<\/ul>",
+        "procedimento": "<p>Cottura a 180&deg; ventilato.<\/p>",
+        "foto": "tozzetti-2.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772885272,
+        "titolo": "Casatiello",
+        "categoria": "Secondi",
+        "descrizione": "Con una forma a ciambella che simboleggia l'eternità.",
+        "ingredienti": "<p><strong>Per impasto<\/strong>:<\/p>\r\n<ul>\r\n<li>Lievito di birra disidratato 1 bustina o un cubetto se fresco<\/li>\r\n<li>Acqua tiepida 350-400 ml<\/li>\r\n<li>Farina 600 gr pi&ugrave; quella per la spianatoia<\/li>\r\n<li>sale 10 gr<\/li>\r\n<li>Strutto 120 gr pi&ugrave; quello per ungere<\/li>\r\n<li>Pepe macinato in abbondanza<\/li>\r\n<li>Zucchero 2 cucchiaini<\/li>\r\n<\/ul>\r\n<p><strong>Per il ripieno<\/strong>:<\/p>\r\n<ul>\r\n<li>salame 100 gr<\/li>\r\n<li>pecorino 40 gr<\/li>\r\n<li>parmigiano 40 gr<\/li>\r\n<li>pancetta a cubetti dolce 100 gr<\/li>\r\n<li>scamorza ( provolone ) 100 gr<\/li>\r\n<\/ul>\r\n<p><strong>Per spennellare<\/strong>:<\/p>\r\n<ul>\r\n<li>1 uovo<\/li>\r\n<\/ul>\r\n<p><strong>Per decorare<\/strong>:<\/p>\r\n<ul>\r\n<li>5 uova<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Per preparare il casatiello napoletano setacciate in una ciotola capiente la farina e aggiungete il lievito di birra, il pepe e lo strutto. Sciogliete il sale nell'acqua tiepida e aggiungetelo nella ciotola, impastando il tutto fino ad amalgamare gli ingredienti.<\/li>\r\n<li>Trasferitevi ad impastare su un pano di lavoro cos&igrave; da ottenere un composto liscio ed omogeneo che adagerete in una ciotola unta di strutto, coprirete con della pellicola e lascerete lievitare a circa 30&deg; per 2 ore e mezza, o fino a che il volume dell'impasto non sar&agrave; raddoppiato.<\/li>\r\n<li>Trascorso il tempo indicato, spolverizzate di farina il piano di lavoro, prendete l'impasto, lavoratelo qualche secondo e poi stendetelo in un rettangolo piuttosto lungo ( circa 40 x 65 cm ); dal lato pi&ugrave; stretto, tagliate via una striscia di 5 cm che vi servir&agrave; in seguito per fermare le uova sopra il casatiello ( copritela con della pellicola per non farla seccare ).<\/li>\r\n<li>Cospargete la sfoglia ottenuta con i formaggi grattugiati, la pancetta, il provolone ( che avete precedentemente tagliato a cubetti ) e il salame, avendo cura di lasciare un bordo tutto intorno non cosparso di ingredienti e quindi utile per sigillare il casatiello. Arrotondate la sfoglia sul lato pi&ugrave; lungo e formate un grosso rotolo.<\/li>\r\n<li>Ungete uno stampo a ciambella con la chiusura verso il basso con dello strutto e subito dopo metteteci dentro il rotolo; sovrapponete leggermente le due estremit&agrave; del casatiello e poi fate lievitare il tutto per almeno un'ora o fino a che il casatiello non abbia raggiunto il margine superiore dello stampo.<\/li>\r\n<li>Quando il casatiello avr&agrave; raggiunto il margine, prendete le uova ( ben lavate ed asciugate ) e premetele delicatamente sulla superficie dell impasto, posizionandole a uguale distanza una dall'altra.<\/li>\r\n<li>Stendete poi la pasta avanzata e ritagliate delle piccole strisce dello spessore di 1\/2 cm che andrete a posizionare a croce su ogni uovo. Spennellate delicatamente con un uovo sbattuto la superficie del casatiello e infornate poi a 200&deg; per circa 45\/50 minuti.<\/li>\r\n<\/ol>",
+        "foto": "casatiello.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772890737,
+        "titolo": "Zucchine alla Mozzarella",
+        "categoria": "Contorni",
+        "descrizione": "Sono un contorno semplice e gustoso.",
+        "ingredienti": "<ul>\r\n<li>4-5 zucchine medie<\/li>\r\n<li>200 gr di mozzarella<\/li>\r\n<li>30 gr di burro<\/li>\r\n<li>prezzemolo<\/li>\r\n<li>basilico<\/li>\r\n<li>uno spicchio d'aglio<\/li>\r\n<li>2 cucchiaini di olio extra vergine<\/li>\r\n<li>sale<\/li>\r\n<li>pepe<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Per preparare le Zucchine alla mozzarella incominciare con il lavare e cimare le zucchine e lessarle in acqua salata per 10 minuti quindi scolarle e lasciarle intiepidire. Tagliarle a met&agrave; per la lunghezza e scavarle delicatamente con un cucchiaino. Far rosolare la polpa delle zucchine in un pentolino con il burro, un pizzico di sale e uno di pepe. A parte, dorare lo spicchio di aglio con un filo di olio.<\/li>\r\n<li>Una volta rosolata, schiacciare la polpa delle zucchine con una forchetta e farla raffreddare quindi unire un trito di prezzemolo, basilico e aglio e anche la mozzarella ridotta a cubetti e schiacciando anch&rsquo;essa con la forchetta.<\/li>\r\n<li>Riempire con il composto le zucchine, disporle su una teglia da forno, e cuocerle per circa 15-20 minuti a 200&deg;C. Gli ultimi minuti passate alla funzione grill per gratinare leggermente la superficie delle Zucchine alla mozzarella.<\/li>\r\n<\/ol>",
+        "foto": "zucchine-alla-mozzarella.jpg",
+        "conservazione": ""
+    },
+    {
+        "id": 1772895675,
+        "titolo": "Melanzane Impanate",
+        "categoria": "Contorni",
+        "descrizione": "Croccanti, perfette come contorno o antipasto.",
+        "ingredienti": "<ul>\r\n<li>2 melanzane<\/li>\r\n<li>2 uova<\/li>\r\n<li>un pizzico di sale<\/li>\r\n<li>parmigiano macinato q.b.<\/li>\r\n<li>pane grattugiato<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Sbattere 2 uova con un pizzico di sale e un po di parmigiano, immergere 2 melanzane tagliate a fette non spesse e successivamente passarle nel pane grattugiato.<\/li>\r\n<li>Inserire le melanzane in una teglia coperta da carta da forno e cuocere per 10\/15 minuti a 180&deg; in forno ventilato e girare le melanzane a met&agrave; cottura.<\/li>\r\n<\/ol>",
+        "foto": "melanzane-impanate.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772897437,
+        "titolo": "Pane",
+        "categoria": "Lievitazioni",
+        "descrizione": "Un atto d'amore silenzioso e il profumo caldo di un abbraccio.",
+        "ingredienti": "<ul>\r\n<li>500 gr di farina \"0\"<\/li>\r\n<li>15 gr di lievito di birra (oppure 150 gr di lievito madre)<\/li>\r\n<li>1 cucchiaino di miele<\/li>\r\n<li>1 cucchiaino di sale<\/li>\r\n<li>300 ml di acqua<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Sciogliete il lievito nell'acqua tiepida, poi aggiungete il miele e lasciate riposare 10 minuti.<\/li>\r\n<li>Unite la farina setacciata, impastare gli ingredienti per 5 minuti e poi aggiungete il sale.<\/li>\r\n<li>Lavorate il pane per altri 10 minuti e mettetelo a lievitare per un'ora e mezza.<\/li>\r\n<li>Riprendete l'impasto e fate delle pieghe, poi rimettete a lievitare per altre 2 ore.<\/li>\r\n<li>Separate l'impasto in due parti, lavoratelo per qualche minuto e date la forma allungata a sfilatino<\/li>\r\n<li>Infarinate le pagnotte, mettetele in una ciotola rettangolare, coprite con un canovaccio e fate lievitare per altre 2 ore.<\/li>\r\n<li>Accendete il forno a 220&deg;.<\/li>\r\n<li>Rovesciate le pagnotte lievitate nella teglia da forno, fate dei tagli trasversali sulla superficie con una lametta e togliete la farina in eccesso.<\/li>\r\n<li>Infornate e dopo 15 minuti abbassate la temperatura a 200&deg;. Dopo altri 15 minuti portatela a 180&deg; fino a cottura, per circa 45 minuti.<\/li>\r\n<li>Spegnete il forno e lasciate raffreddare a porta aperta.<\/li>\r\n<li>La cottura dipende molto dal tipo di forno che utilizzate, provate per trovare il modo di cottura ideale.<\/li>\r\n<\/ol>",
+        "foto": "pane.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772897844,
+        "titolo": "Torta Sbriciolata",
+        "categoria": "Dolci",
+        "descrizione": "Friabile e rustico, apprezzato per la sua semplicità.",
+        "ingredienti": "<ul>\r\n<li>500 gr di biscotti<\/li>\r\n<li>200 gr di burro<\/li>\r\n<\/ul>\r\n<p><strong>Per la farcia<\/strong>:<\/p>\r\n<ul>\r\n<li>500 gr di ricotta<\/li>\r\n<li>120 gr di zucchero<\/li>\r\n<li>100 gr di gocce di cioccolato<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Tritate finemente i biscotti.<\/li>\r\n<li>Aggiungere il burro fuso<\/li>\r\n<li>Mescolate per bene<\/li>\r\n<li>Prendete uno stampo a cerniera del diametro di 22-24cm e foderatelo con due terzi del composto di biscotti; io ho messo della carta da forno alla base, per non far attaccare i biscotti e tagliare pi&ugrave; facilmente le fette. Mettete in frigo per un quarto d&rsquo;ora.<\/li>\r\n<li>Nel frattempo mescolate la ricotta setacciata con lo zucchero.<\/li>\r\n<li>Aggiungete le gocce di cioccolato.<\/li>\r\n<li>Versate nello stampo.<\/li>\r\n<li>Ricoprite con i biscotti rimanenti.<\/li>\r\n<li>Mettete in frigo per un&rsquo;ora almeno.<\/li>\r\n<li>Tagliate la vostra sbriciolata senza cottura a fette e servite!<\/li>\r\n<\/ol>",
+        "foto": "torta-sbriciolata.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772898113,
+        "titolo": "Arancia e cioccolato",
+        "categoria": "Dolci",
+        "descrizione": "La freschezza agrumata alla golosità del cioccolato.",
+        "ingredienti": "<ul>\r\n<li>175 gr di farina<\/li>\r\n<li>75 gr di fecola di patate<\/li>\r\n<li>1 cucchiaino di lievito in polvere<\/li>\r\n<li>1 uovo<\/li>\r\n<li>una presa di sale<\/li>\r\n<li>buccia grattuggiata di 1 arancia<\/li>\r\n<li>125 gr di zucchero<\/li>\r\n<li>125 gr di burro o margarina<\/li>\r\n<li>100 gr di cioccolato fondente<\/li>\r\n<li>altra farina q.b. per stendere la pasta<\/li>\r\n<li>margarina per ungere la teglia<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Impastare insieme gli ingredienti, tranne il cioccolato che andr&agrave; grattuggiato grossolanamente prima di essere unito.<\/li>\r\n<li>Fare una palla e lasciarla riposare coperta in frigo per mezz'ora.<\/li>\r\n<li>Poi stenderla, sulla spianatoia infarinata, in una sfoglia di mezzo centrimento di spessore e ricavarne delle striscie di 3 X 6 cm.<\/li>\r\n<li>Sistemare i biscotti sulla placca unta con margarina e infornare nel forno gi&agrave; riscaldato, sul ripiano centrale per 15 minuti a 200&deg;<\/li>\r\n<li>Ricoprire i biscotti con la glassa fatta con 100gr di zuzzhero a velo e con 2-3 cucchiai di succo d'arancia<\/li>\r\n<\/ol>",
+        "foto": "biscotti-arancia-e-cioccolato.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772984847,
+        "titolo": "Torta Pere e Cioccolato",
+        "categoria": "Dolci",
+        "descrizione": "Morbido e avvolgente, perfetto per una colazione golosa.",
+        "ingredienti": "<ul>\r\n<li>1\/2 bustina di lievito<\/li>\r\n<li>sale q.b.<\/li>\r\n<li>200 gr di farina<\/li>\r\n<li>4uova<\/li>\r\n<li>1 limone<\/li>\r\n<li>140 gr di mandorle<\/li>\r\n<li>140 gr di burro<\/li>\r\n<li>140 gr di zucchero<\/li>\r\n<li>5 pere<\/li>\r\n<li>200 gr di cioccolato fondente<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Lavorate il burro semifuso con lo zucchero.<\/li>\r\n<li>Unire la buccia del limone grattuggiata, il sale e le uova.<\/li>\r\n<li>Aggiungere poi il lievito, la farina, le mandorle tritate, le pere a pezzetti e la cioccolata a pezzi grandi.<\/li>\r\n<li>Imburrare e infarinare una teglia grande (26 o 28 cm) e infornare a 160&deg; per un'ora circa, controllando la cottura, abbassando il forno a 125<\/li>\r\n<\/ol>",
+        "foto": "torta-pere-e-cioccolato.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1772987749,
+        "titolo": "Cannoli Siciliani",
+        "categoria": "Dolci",
+        "descrizione": "Sono un inno d'amore alla Sicilia.",
+        "ingredienti": "<p><strong>Impasto<\/strong>:<\/p>\r\n<ul>\r\n<li>1 uovo<\/li>\r\n<li>2 cucchiai di zucchero<\/li>\r\n<li>1 dadino burro<\/li>\r\n<li>1 cucchiaio di lievito<\/li>\r\n<li>1 goccio marsala<\/li>\r\n<\/ul>\r\n<p><strong>Impasto di ricotta<\/strong>:<\/p>\r\n<ul>\r\n<li>7-8 etti di ricotta<\/li>\r\n<li>2 rossi d'uovo<\/li>\r\n<li>1 goccio di rum<\/li>\r\n<li>un po di cannela<\/li>\r\n<li>un po di cioccolata<\/li>\r\n<li>un po di canditi<\/li>\r\n<li>150 gr di zucchero<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Poniamo la farina in un recipiente, aggiungiamo l'uovo e iniziamo ad amalgamare la farina insieme all'uovo, l'impasto sar&agrave; un p&ograve; duro all'inizio, perci&ograve; aggiungiamo il burro fuso e il marsala o vino bianco.<\/li>\r\n<li>Amalgamiamo il tutto aggiungendo anche un cucchiaino di lievito e continuiamo ad impastare fino ad ottenere un composto morbido al punto giusto e omogeneo. Il nostro impasto &egrave; pronto, modelliamo fino a dargli una forma rotonda, avvolgete nella pellicola e lasciamo riposare in frigorifero per almeno 30 minuti.<\/li>\r\n<li>Passati i 30 minuti prendiamo il nostro impasto e lo stendiamo con un matterello, (cerchiamo di non renderlo troppo sottile perch&egrave; stenderemo ancora l'impasto dopo), arrivati a questo punto iniziamo a tagiiare l'impasto usando un bicchiere in modo da ottenere una forma circolare.<\/li>\r\n<li>Ottenute le nostre forme circolari di impasto andremo a stenderle di nuovo, dopodicch&egrave; dopo averla assottigliata abbastanza andremo a ricoprire le nostre forme.<\/li>\r\n<li>A questo punto friggiamo le nostre cialde in abbondante olio di semi,&nbsp;le nostre cialde sono pronte!<\/li>\r\n<\/ol>\r\n<p><strong>Prepariamo la crema<\/strong>:<\/p>\r\n<ol>\r\n<li>Lasciamo scolare la ricotta in un colino Dopo aver drenato la nostra ricotta aggiungiaemo i tuorli d'uovo.<\/li>\r\n<li>Amalgamiamo per bene e aggiungiamo lo zucchero.<\/li>\r\n<li>Amalgamiamo ancora (lo so che &egrave; seccante ma il segreto della crema sta nel saperla amalgamare bene o non avr&agrave; un gran sapore).<\/li>\r\n<li>Aggiungiamo il rum e della cioccolata a scaglie e dei canditi se vi piacciono.<\/li>\r\n<li>Amalgamiamo per l'ultima volta e la nostra crema &egrave; pronta.<\/li>\r\n<li>Per farcire i nostri cannoli potremo utilizzare o una sacca poche oppure una siringa per dolci.<\/li>\r\n<li>Per decorare possiamo aggiungere dello zucchero a velo e magari delle ciliegine per dolci, perch&egrave; ricordiamoci che quando si prepara un piatto anche l'occhio vuole la sua parte.<\/li>\r\n<li>Preparate e non dimenticate di lasciare qualche cannolo anche a me!&nbsp;Ciao e alla prossima ricetta!<\/li>\r\n<\/ol>",
+        "foto": "cannoli-siciliani.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1773339829,
+        "titolo": "Plumcake Salato",
+        "categoria": "Secondi",
+        "descrizione": "Morbido, saporito e facilissimo da preparare.",
+        "ingredienti": "<ul>\r\n<li>250g di farina 00<\/li>\r\n<li>40g di Parmigiano<\/li>\r\n<li>3 uova<\/li>\r\n<li>100ml di latte<\/li>\r\n<li>90ml di olio di semi<\/li>\r\n<li>1 bustina di lievito istantaneo per torte salate<\/li>\r\n<li>80g di prosciutto cotto<\/li>\r\n<li>80g di formaggio a pasta filata<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>In una ciotola bella grande rompi le uova e poi aggiungi il latte e l'olio di semi.<\/li>\r\n<li>Inizia a sbattere e poi aggiungi il parmigiano, la farina e il lievito istantaneo.<\/li>\r\n<li>Continua con lo sbattitore per altri 5 minuti fino a raggiungere questa consistenza bella omogenea.<\/li>\r\n<li>A questo punto aggiungi il prosciutto cotto e il formaggio a pasta filata.<\/li>\r\n<li>Gira bene il composto con una spatola.<\/li>\r\n<li>Prendi uno stampo da plumcake da 28x10 e metti un foglio di carta forno alla base e poi imburralo per bene cosi non rischi che si attacchi.<\/li>\r\n<li>Versa l'impasto dentro e inforna a 180&deg; per circa 45 minuti in modalit&agrave; statica.<\/li>\r\n<\/ol>\r\n<p>Piccolo trucchetto: se sopra colora troppo, coprilo con&nbsp;un foglio di alluminio.<\/p>\r\n<p>Per capire se &egrave; pronto TEST DELLO STUZZICADENTI,infila lo stuzzicadenti e se viene fuori asciutto, il tuoplumcake &egrave; pronto!<\/p>",
+        "foto": "plumcake-salato.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1773480354,
+        "titolo": "Zeppole di San Giuseppe",
+        "categoria": "Dolci",
+        "descrizione": "Un must per la festa del papà.",
+        "ingredienti": "<p>Ricetta di Iginio Massari<\/p>\r\n<p><strong>Dosi per<\/strong>: 10-12 zeppole<\/p>\r\n<p><strong>Per la pasta choux<\/strong>:<\/p>\r\n<ul>\r\n<li>315g uova a temperatura ambiente<\/li>\r\n<li>166ml acqua<\/li>\r\n<li>166g farina OO<\/li>\r\n<li>86g burro<\/li>\r\n<li>3g zucchero semolato e 3g sale<\/li>\r\n<\/ul>\r\n<p><strong>Per la crema pasticciera<\/strong>:<\/p>\r\n<ul>\r\n<li>400ml latte intero<\/li>\r\n<li>60g zucchero semolato<\/li>\r\n<li>120g tuorli d'uovo<\/li>\r\n<li>30g amido di riso o mais<\/li>\r\n<li>1 bacca di vaniglia<\/li>\r\n<\/ul>\r\n<p><strong>Per la finitura<\/strong>:<\/p>\r\n<ul>\r\n<li>q.b. amarene sciroppate<\/li>\r\n<li>q.b. zucchero a velo<\/li>\r\n<\/ul>",
+        "procedimento": "<p><strong>Preparazione della pasta choux<\/strong>:<\/p>\r\n<ol>\r\n<li>In un pentolino, unisci acqua, sale, zucchero e burro a tocchetti.<\/li>\r\n<li>Porta a bollore e aggiungi la farina in un solo colpo, mescolando energicamente fino a ottenere un composto che si stacca dalle pareti.<\/li>\r\n<li>Lascia intiepidire e incorpora le uova una alla volta.<\/li>\r\n<li>Trasferisci l'impasto in una sac &agrave; poche con bocchetta a stella e forma delle ciambelle su una teglia rivestita di carta forno.<\/li>\r\n<\/ol>\r\n<p><strong>Cottura<\/strong>:<\/p>\r\n<ol>\r\n<li>Inforna in forno preriscaldato a 180&deg;C per 25 minuti.<\/li>\r\n<li>A cottura ultimata, lascia intiepidire nel forno spento con lo sportello leggermente aperto per 5 minuti, per evitare che si sgonfino.<\/li>\r\n<\/ol>\r\n<p><strong>N.B<\/strong>: Se vuoi friggere le zeppole, una volta formati i dolcetti su dei quadratini di carta forno, ti baster&agrave; immergerli con tutta la carta in abbondante olio di&nbsp;semi bollente portato alla temperatura di 170 ℃C, eliminare subito quest'ultima e cuocere tutto fino a doratura.<\/p>\r\n<p><strong>Preparazione della crema pasticciera<\/strong>:<\/p>\r\n<p>Scalda il latte con la bacca di vaniglia. In una ciotola, sbatti i tuorli con lo zucchero, aggiungi l'amido e, infine, il latte caldo filtrato. Cuoci fino a ottenere una crema densa e liscia.<\/p>\r\n<p><strong>Assemblaggio<\/strong>:<\/p>\r\n<p>Una volta raffreddate, farcisci le zeppole con la crema pasticciera, aggiungi un'amarena sciroppata al centro e spolverizza con zucchero a velo.<\/p>",
+        "foto": "zeppole-di-san-giuseppe.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1773484088,
+        "titolo": "Pan di Spagna",
+        "categoria": "Dolci",
+        "descrizione": "La base per ogni tipo di torta.",
+        "ingredienti": "<ul>\r\n<li>250 gr di farina<\/li>\r\n<li>10 uova<\/li>\r\n<li>1 bustina di lievito<\/li>\r\n<li>300 gr di zucchero a velo<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Separare i tuorli dagli albumi.<\/li>\r\n<li>Montare gli albumi a neve<\/li>\r\n<li>Montare i tuorli con lo zucchero per almeno 4 minuti con le fruste, poi aggiungerci lievito e farina continuando a mescolare.<\/li>\r\n<li>Infine incorporare delicatamente a mano le chiare montate.<\/li>\r\n<li>Versare nello stampo e infornare a 175&deg; per 30 minuti circa.<\/li>\r\n<\/ol>",
+        "foto": "pan-di-spagna.jpeg",
+        "conservazione": ""
+    },
+    {
+        "id": 1774037981,
+        "titolo": "Pastiera Napoletana",
+        "categoria": "Dolci",
+        "descrizione": "L’essenza dolce della tradizione.",
+        "ingredienti": "<p><strong>Per la pasta frolla<\/strong>:<\/p>\r\n<ul>\r\n<li>350 g di farina<\/li>\r\n<li>175 g di burro o strutto<\/li>\r\n<li>140 g di zucchero<\/li>\r\n<li>2 uova intere<\/li>\r\n<li>scorza di 1 arancia<\/li>\r\n<\/ul>\r\n<p><strong>Per il ripieno<\/strong>:<\/p>\r\n<ul>\r\n<li>350 g di ricotta vaccina<\/li>\r\n<li>250 g di zucchero<\/li>\r\n<li>300 g di grano precotto<\/li>\r\n<li>200 ml di latte<\/li>\r\n<li>2 uova intere<\/li>\r\n<li>1 tuorlo<\/li>\r\n<li>150 g di canditi (cedro e arancia)<\/li>\r\n<li>2 cucchiaini di acqua di fiori d&rsquo;arancio<\/li>\r\n<li>scorza di 2 arance<\/li>\r\n<li>scorza di 1 limone<\/li>\r\n<li>1 pizzico di sale<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Cuocete il grano con latte, scorza di 1 arancia e 1 cucchiaio di zucchero. Mescolate continuamente finch&eacute; il latte non si sar&agrave; completamente assorbito. Lasciate raffreddare. In una ciotola capiente, lavorate la ricotta con lo zucchero fino ad ottenere un composto morbido e senza grumi.<\/li>\r\n<li>Aggiungete le uova, il tuorlo, un pizzico di sale e la scorza grattugiata di 1 arancia e 1 limone. Mescolate con un mestolo di legno. Aggiungete anche i canditi a cubetti piccoli e l&rsquo;acqua di fiori d&rsquo;arancio.<\/li>\r\n<li>Infine, unite il grano freddo e mescolate fino ad ottenere una crema omogenea. Lasciate riposare in frigo. Intanto, preparate la pasta frolla: lavorate burro e zucchero, quindi unite le uova con la scorza d&rsquo;arancia e successivamente la farina. Impastate fino ad ottenere un panetto compatto, quindi avvolgetelo nella pellicola e riponete in frigo.<\/li>\r\n<li>Appena la pasta frolla sar&agrave; ben fredda, stendetene 2\/3 e rivestite una tortiera antiaderente. Versate il ripieno all&rsquo;interno, quindi stendete la frolla restante e ricavate delle strisce. Decorate formando dei rombi. Cuocete la pastiera in forno caldo a 180&deg; per circa 1 ora e 20 minuti. Sfornatela, fatela raffreddare (a temperatura ambiente o in frigo) per 12 ore.<\/li>\r\n<li>&nbsp;<\/li>\r\n<\/ol>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>",
+        "foto": "pastiera-napoletana.webp",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1774038428,
+        "titolo": "Colomba",
+        "categoria": "Dolci",
+        "descrizione": "La dolcezza che annuncia la primavera.",
+        "ingredienti": "<ul>\r\n<li>3 uova<\/li>\r\n<li>100 gr di burro<\/li>\r\n<li>200 gr di zucchero<\/li>\r\n<li>1 arancio e un limone (la buccia grattugiata)<\/li>\r\n<li>100 gr di liquore Amaretto<\/li>\r\n<li>350 gr di farnia<\/li>\r\n<li>1 bustina di lievito per pizza istantaneo<\/li>\r\n<li>1 bicchiere di latte intero<\/li>\r\n<li>100 gr di arancia candita a cubetti<\/li>\r\n<li>50 gr di mandorle amare o fialetta alle mandorle<\/li>\r\n<\/ul>\r\n<p><strong>Per decorare<\/strong>:<\/p>\r\n<ul>\r\n<li>100 gr di granella di zucchero<\/li>\r\n<li>100 gr di mandorle sgusciate<\/li>\r\n<li>Uno stampo per colomba<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Battere il burro con lo zucchero fino a rendere l'impasto gonfio e spumoso. Poi poco alla volta aggiungere i tuorli e gli altri ingredienti, per ultimi gli albumi, montati a neve soda.<\/li>\r\n<li>Mettere in uno stampo per colomba e cospargere con le mandorle e la granella di zucchero, informare per 40' in forno caldo statico a 170&deg;.<\/li>\r\n<\/ol>",
+        "foto": "colomba.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1774040651,
+        "titolo": "Casatiello Ricco",
+        "categoria": "Secondi ",
+        "descrizione": "L’impasto rituale che racchiude tutta la Pasqua napoletana.",
+        "ingredienti": "<p>Dose per uno stampo casatiello da 26 cm<\/p>\r\n<p><strong>Per l'impasto<\/strong>:<\/p>\r\n<ul>\r\n<li>500g farina 00 buona qualit&agrave;<\/li>\r\n<li>250g acqua<\/li>\r\n<li>12g lievito di birra fresco<\/li>\r\n<li>75g strutto<\/li>\r\n<li>10g sale<\/li>\r\n<li>10g zucchero<\/li>\r\n<li>4g pepe<\/li>\r\n<\/ul>\r\n<p><strong>Per il ripieno<\/strong>:<\/p>\r\n<ul>\r\n<li>500g salumi misti&nbsp; (salame napoletano,pancetta tesa,cicoli,prosciutto cotto)<\/li>\r\n<li>200g formaggi: (provolone piccante,formaggio romano)<\/li>\r\n<li>4 uova sode all'interno<\/li>\r\n<\/ul>\r\n<p><strong>Per la finitura<\/strong>:<\/p>\r\n<ul>\r\n<li>Uova crude intere&nbsp;<\/li>\r\n<li>Un po&rsquo; di impasto tenuto da parte&nbsp;<\/li>\r\n<li>Strutto (o burro\/margarina) per ungere lo stampo<\/li>\r\n<\/ul>",
+        "procedimento": "<p><strong>Preparazione dell&rsquo;impasto<\/strong>:<\/p>\r\n<ol>\r\n<li>Disporre la farina a fontana sul piano di lavoro.&nbsp;<\/li>\r\n<li>Inserire al centro lo strutto, lo zucchero, il sale e il pepe.<\/li>\r\n<li>Mescolare gli ingredienti centrali fino a ottenere una pastella.<\/li>\r\n<li>Sciogliere il lievito nell&rsquo;acqua.<\/li>\r\n<li>Versare l&rsquo;acqua nella pastella e incorporare gradualmente la farina.&nbsp;<\/li>\r\n<li>Lavorare fino a ottenere un impasto omogeneo e consistente.<\/li>\r\n<li>Formare un panetto e lasciarlo riposare per 5 minuti.<\/li>\r\n<\/ol>\r\n<p><strong>Prima lievitazione<\/strong>:<\/p>\r\n<ol>\r\n<li>Arrotondare l&rsquo;impasto dopo il riposo.&nbsp;<\/li>\r\n<li>Trasferirlo in una ciotola infarinata e coprire con pellicola.<\/li>\r\n<li>Lasciare lievitare in ambiente tiepido (forno preriscaldato a 30&ndash;40&deg;C e poi spento) per circa 2 ore, fino al raddoppio.<\/li>\r\n<\/ol>\r\n<p><strong>Stesura e farcitura<\/strong>:<\/p>\r\n<ol>\r\n<li>Rovesciare l&rsquo;impasto lievitato sul piano di lavoro.&nbsp;<\/li>\r\n<li>Stenderlo con le mani formando un rettangolo.&nbsp;<\/li>\r\n<li>Distribuire uniformemente salumi e formaggi.&nbsp;<\/li>\r\n<li>Disporre gli spicchi di uova sode al centro, in fila ordinata.&nbsp;<\/li>\r\n<li>Prelevare 50&ndash;60 g di impasto e tenerli da parte per le strisce decorative.&nbsp;<\/li>\r\n<li>Arrotolare il rettangolo in modo stretto, formando un salsicciotto.<\/li>\r\n<li>Sigillare bene la chiusura.<\/li>\r\n<\/ol>\r\n<p><strong>Preparazione dello stampo<\/strong>:<\/p>\r\n<ol>\r\n<li>Ungere il ruoto da casatiello con strutto (o burro\/margarina).<\/li>\r\n<li>Posizionare il salsicciotto nello stampo, chiudendolo ad anello.<\/li>\r\n<li>Pressare leggermente per uniformare.<\/li>\r\n<\/ol>\r\n<p><strong>Decorazione con le uova crude<\/strong>:<\/p>\r\n<ol>\r\n<li>Posizionare le uova crude sulla superficie del casatiello.&nbsp;<\/li>\r\n<li>Con l&rsquo;impasto tenuto da parte, formare due strisce per ogni uovo e incrociarle a croce.<\/li>\r\n<\/ol>\r\n<p><strong>Seconda lievitazione<\/strong>:<\/p>\r\n<ol>\r\n<li>Inserire lo stampo nel forno preriscaldato a 40&deg;C e poi spento.<\/li>\r\n<li>Lasciare lievitare per 1,5&ndash;2 ore, finch&eacute; l&rsquo;impasto supera il bordo dello stampo.<\/li>\r\n<\/ol>\r\n<p><strong>Cottura<\/strong>:<\/p>\r\n<ol>\r\n<li>Cuocere in forno statico, ripiano basso, a 190&deg;C per 50&ndash;55 minuti.<\/li>\r\n<li>Verificare la doratura dopo 45&ndash;50 minuti.<\/li>\r\n<\/ol>\r\n<p><strong>Raffreddamento<\/strong>:<\/p>\r\n<ol>\r\n<li>Lasciare raffreddare il casatiello per 2&ndash;3 ore.&nbsp;<\/li>\r\n<li>Sformare capovolgendo lo stampo su un piatto.<\/li>\r\n<\/ol>",
+        "foto": "casatiello-ricco.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    },
+    {
+        "id": 1774044723,
+        "titolo": "Zuppa Inglese",
+        "categoria": "Dolci ",
+        "descrizione": "Il dolce per eccellenza.",
+        "ingredienti": "<p>teglia rettangolare 20x15cm<\/p>\r\n<p><strong>Per le creme<\/strong>:<\/p>\r\n<ul>\r\n<li>1250ml latte intero<\/li>\r\n<li>10 tuorli<\/li>\r\n<li>300g zucchero<\/li>\r\n<li>90g amido di mais<\/li>\r\n<li>1 bacca di vaniglia<\/li>\r\n<li>100g cioccolato fondente<\/li>\r\n<li>400g savoiardi<\/li>\r\n<\/ul>\r\n<p><strong>Per la bagna<\/strong>:<\/p>\r\n<ul>\r\n<li>300ml alchermes<\/li>\r\n<li>200ml acqua<\/li>\r\n<\/ul>\r\n<p><strong>Per concludere<\/strong>:<\/p>\r\n<ul>\r\n<li>q.b. cacao amaro (per spolverizzare)<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Porta il latte a sfiorare il bollore con la vaniglia.<\/li>\r\n<li>In una ciotola unisci zucchero e amido, mescola, poi aggiungi i tuorli e amalgama.<\/li>\r\n<li>Versa il latte caldo sul composto mescolando, riporta sul fuoco e cuoci fino ad addensamento.<\/li>\r\n<li>Dividi la crema in due parti e in una aggiungi il cioccolato fondente tritato, mescolando fino a completo scioglimento<\/li>\r\n<li>Diluisci l'alchermes con l'acqua.<\/li>\r\n<li>Inzuppa velocemente i savoiardi e crea il primo strato.<\/li>\r\n<li>Alterna crema chiara, savoiardi e crema al cioccolato.<\/li>\r\n<li>Termina con crema a chiara. Copri con la pellicola a contatto e lascia riposare in frigorifero almeno 2 ore, meglio se per tutta la notte.<\/li>\r\n<li>Spolverizza con cacao e gusta.<\/li>\r\n<\/ol>",
+        "foto": "zuppa-inglese.jpg",
+        "conservazione": ""
+    },
+    {
+        "id": 1774045404,
+        "titolo": "Panini al Cucchiaio ",
+        "categoria": "Lievitati",
+        "descrizione": "Veloci e sfizziosi.",
+        "ingredienti": "<ul>\r\n<li>500g di farina O<\/li>\r\n<li>350g di acqua<\/li>\r\n<li>1 cucchiaino di zucchero o di miele<\/li>\r\n<li>12g di lievito di birra fresco<\/li>\r\n<li>10g di sale<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>Mescola tutti gli ingredienti in una ciotola, l'impasto deve essere morbido.<\/li>\r\n<li>Copri e fai lievitare fino a raddoppio, almeno 2 ore.<\/li>\r\n<li>Con l'aiuto di un cucchiaio dividi l'impasto in 4\/6 panini e disponili su una teglia con carta forno. Spolvera con un po' di farina per dare un aspetto pi&ugrave; rustico.<\/li>\r\n<li>Cuoci i panini a 200&deg; per circa 20 minuti.<\/li>\r\n<\/ol>\r\n<p><strong>Consiglio in pi&ugrave;<\/strong>:<\/p>\r\n<p>Per i primi 10 minuti, inserisci alla base del forno un pentolino con dell'acqua. Il vapore aiuter&agrave; a renderli pi&ugrave; morbidi e gonfi.<\/p>",
+        "foto": "panini-al-cucchiaio.jpg",
+        "conservazione": ""
+    },
+    {
+        "id": 1775071140,
+        "titolo": "Colomba di Pasqua",
+        "categoria": "Dolci",
+        "descrizione": "Un' alternativa facile e gustosa.",
+        "ingredienti": "<ul>\r\n<li>300 g farina 00<\/li>\r\n<li>125 g zucchero<\/li>\r\n<li>3 uova<\/li>\r\n<li>100 g latte<\/li>\r\n<li>95 g olio di semi (o 115 g di burro)<\/li>\r\n<li>1pizzico sale<\/li>\r\n<li>16 g lievito per dolci<\/li>\r\n<li>30 g amaretto (o altro liquore a piacere)<\/li>\r\n<li>8-10 ovetti di cioccolato<\/li>\r\n<li>70 g canditi assortiti<\/li>\r\n<\/ul>\r\n<p><strong>Per la decorazione<\/strong>:<\/p>\r\n<ul>\r\n<li>180 g gzucchero a velo<\/li>\r\n<li>2 albumi<\/li>\r\n<li>mandorle a lamelle<\/li>\r\n<\/ul>",
+        "procedimento": "<ol>\r\n<li>gli ovetti vanno congelati il giorno prima.<\/li>\r\n<li>Con le fruste elettriche schiumare le uova con un pizzico di sale, poi aggiungere lo zucchero e montare fino a quando si otterr&agrave; una crema morbida.<\/li>\r\n<li>Aggiungere l'olio, il latte e l'amaretto e continuare a montare con le fruste.<\/li>\r\n<li>Setacciare la farina con il lievito e continuare a lavorare con le fruste fino a quando il composto sar&agrave; uniforme.<\/li>\r\n<li>Aggiungere anche i canditi, mescolare per bene e versare nello stampo.<\/li>\r\n<li>&nbsp;Inserire gli ovetti scartati, poi montare gli albumi con un pizzico di sale, quando saranno gonfi unire anche lo zucchero a velo e continuare a montare.<\/li>\r\n<li>Versare sul composto tare con le mandorle gli zuccherini.<\/li>\r\n<li>Cuocere in forno per circa 45-50 minuti e 180 ℃.<\/li>\r\n<\/ol>\r\n<p style=\"color: #9b4f26;\"><strong>Vedere il video ufficiale qui sotto<\/strong>. <br><video src=\"assets\/videos\/colomba_amaretto_ovetti.mp4\" poster=\"immaginedianteprima.jpg\" controls=\"controls\" width=\"320\">\r\n    <\/video><\/p>\r\n<p>Se il video non pu&ograve; essere riprodotto sul tuo browser.<br>Fai partire il download del video cliccando su questo<a href=\"assets\/videos\/colomba_amaretto_ovetti.mp4\">link<\/a>.<\/p>\r\n<p>&nbsp;<\/p>",
+        "foto": "colomba-di-pasqua.jpg",
+        "conservazione": "",
+        "noteIngredienti": ""
+    }
+]
