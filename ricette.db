@@ -1,0 +1,8 @@
+INSERT INTO ricette (titolo, categoria, ingredienti, preparazione, immagine)
+VALUES (
+    "Pasta al pomodoro",
+    "Primi",
+    "Pasta;Pomodoro;Sale;Olio",
+    "Cuoci la pasta e aggiungi il sugo.",
+    "pasta.jpg"
+);
