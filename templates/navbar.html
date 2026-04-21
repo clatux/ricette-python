@@ -7,7 +7,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarMain">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
 
         {% for cat in categorie %}
@@ -16,12 +16,6 @@
         </li>
         {% endfor %}
       </ul>
-
-      <!-- Barra di ricerca -->
-      <form class="d-flex" action="/search" method="get">
-        <input class="form-control me-2" type="search" name="q" placeholder="Cerca ricette..." aria-label="Search">
-        <button class="btn btn-light" type="submit">Cerca</button>
-      </form>
     </div>
   </div>
 </nav>
