@@ -14,12 +14,17 @@
           <a class="nav-link" href="/">Home</a>
         </li>
 
-        <!-- CATEGORIE ORDINATE -->
-        {% for cat in categorie %}
-        <li class="nav-item">
-          <a class="nav-link" href="/categoria/{{ cat }}">{{ cat }}</a>
+        <!-- DROPDOWN CATEGORIE -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="categorieDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Categorie
+          </a>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="categorieDropdown">
+            {% for cat in categorie %}
+            <li><a class="dropdown-item" href="/categoria/{{ cat }}">{{ cat }}</a></li>
+            {% endfor %}
+          </ul>
         </li>
-        {% endfor %}
 
         <!-- ADMIN -->
         <li class="nav-item">
