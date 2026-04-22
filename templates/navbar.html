@@ -8,16 +8,24 @@
 
     <div class="collapse navbar-collapse" id="navbarMain">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
 
+        <!-- HOME -->
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+
+        <!-- CATEGORIE ORDINATE -->
         {% for cat in categorie %}
         <li class="nav-item">
           <a class="nav-link" href="/categoria/{{ cat }}">{{ cat }}</a>
         </li>
         {% endfor %}
+
+        <!-- ADMIN -->
         <li class="nav-item">
           <a class="nav-link" href="/admin/login">Admin</a>
         </li>
+
       </ul>
     </div>
   </div>
